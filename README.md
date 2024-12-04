@@ -23,5 +23,6 @@ Acredito no poder do aprendizado contínuo e estou buscando a construção de pr
 ### 📫 Como me encontrar  
 - **LinkedIn:** [Thiago Epiphanio](https://www.linkedin.com/in/thiago-epiphanio-da-silva-18319396/)  
 - **DIO:** [Meu perfil na DIO](https://www.dio.me/users/thiago84_epiphanio)  
-- **GitHub:** Você já está aqui!  
+- **GitHub:** Você já está aqui!
+- **Email:** thiago84.epiphanio@gmail.com
 
