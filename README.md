@@ -2,21 +2,22 @@
 
 🎓 **Tecnólogo em Gestão da TI (3º semestre)**  
 💻 **Focado em Qualidade de Software (QA) e Desenvolvimento**  
-🔧 **Ferramentas e Tecnologias:** Python, Jira, Cypress e JUnit  
-📚 **Atualmente aprendendo:** Django, Testes Automatizados e Inglês  
+🔧 **Ferramentas e Tecnologias:** Python, Cypress e Jira
+📚 **Atualmente aprendendo:** Python, Testes Manuais e Automatizados e Inglês  
 
 ---
 
 ### 🚀 Sobre mim  
-Sou apaixonado por tecnologia e estou em transição para as áreas de Qualidade de Software e Engenharia de Software.  
+Sou apaixonado por tecnologia e estou em transição para a área de Qualidade de Software.  
 Acredito no poder do aprendizado contínuo e estou buscando a construção de projetos para ampliar minhas habilidades técnicas.  
+Me considero autodidata e extremamente curioso, em aprender coisas novas.
 
 ---
 
-### 🌱 O que estou estudando?  
-- Criação de sistemas com **Django**  
+### 🌱 O que estou estudando? 
+- Qualidade de software e testes manuais
 - Qualidade de software e testes automatizados com **Cypress**  
-- Engenharia de Software: modelagem e planejamento de sistemas  
+- Idioma: Inglês
 
 ---
 
