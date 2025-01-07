@@ -1,4 +1,4 @@
-# 👋 Olá, sou Thiago Epiphânio!  
+# 👋 Olá, sou Thiago Epiphanio!  
 
 🎓 **Tecnólogo em Gestão da TI (3º semestre)**  
 💻 **Focado em Qualidade de Software (QA) e Desenvolvimento**  
