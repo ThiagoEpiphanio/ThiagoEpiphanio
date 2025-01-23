@@ -12,6 +12,8 @@ Atualmente, estou desenvolvendo projetos pessoais para fortalecer minhas habilid
 
 Valorizo muito o aprendizado contínuo e acredito que a colaboração é essencial para criar soluções de impacto.
 
+---
+
 ### 🌱 O que estou estudando?
 - Desenvolvimento back-end com Node.js
 - Desenvolvimento front-end com React.js
