@@ -1,7 +1,7 @@
-# 👋 Olá, sou Thiago Epiphanio!
-** 🎓 **Tecnólogo em Gestão da TI (4º semestre)
-** 💻 **Focado em Programação Back-End e Desenvolvimento Full Stack
-** 📚 **Atualmente aprendendo: **JavaScript, TypeScript, Node.js, React.js e Inglês. Conhecimentos básicos em Python.
+# 👋 Olá, sou Thiago Epiphanio!  
+🎓 Tecnólogo em Gestão da TI (4º semestre)  
+💻 Focado em Programação Back-End e Desenvolvimento Full Stack  
+📚 Atualmente aprendendo: **JavaScript, TypeScript, Node.js, React.js e Inglês. Conhecimentos básicos em Python.  
 
 ---
 
