@@ -1,21 +1,21 @@
 # 👋 Olá, sou Thiago Epiphanio!   
 🎓 Tecnólogo em Gestão da TI (4º semestre)   
-💻 Focado em Programação Back-End, Engenharia de Dados e Qualidade de Software (QA)   
+💻 Estudando Programação Back-End e Engenharia de Dados     
 📚 Atualmente aprendendo: Python, SQL e Inglês    
 
 ---
 
 ### 🚀 Sobre mim  
-Sou apaixonado por tecnologia e estou em transição de carreira para a área de desenvolvimento de software e dados. Com um perfil autodidata e orientado à resolução de problemas, estou me aprofundando em Python e SQL, ferramentas essenciais para trabalhar com análise de dados e desenvolvimento back-end.  
+Sou apaixonado por tecnologia e estou em transição de carreira para a área de desenvolvimento de software ou dados. Com um perfil autodidata e orientado à resolução de problemas, estou me aprofundando em Python e SQL.  
 
 Meu objetivo é construir uma base sólida em projetos técnicos, explorar soluções eficientes e contribuir de forma prática e colaborativa para o sucesso de equipes e projetos. Valorizo o aprendizado contínuo e estou sempre em busca de novos desafios que me ajudem a crescer na área.  
 
 ---
 
 ### 🌱 O que estou estudando?  
-- Python e SQL aplicados ao desenvolvimento back-end e manipulação de dados  
-- Fundamentos em Engenharia de Dados e Qualidade de Software  
-- Idioma: Inglês  
+- Python e SQL aplicados ao desenvolvimento back-end e manipulação de dados    
+- Fundamentos em Engenharia de Dados e Desenvolvimento    
+- Idioma: Inglês    
 
 ---
 
