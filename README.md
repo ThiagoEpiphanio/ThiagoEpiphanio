@@ -2,7 +2,7 @@
 
 🎓 **Tecnólogo em Gestão da TI (4º semestre)**  
 💻 **Focado em Qualidade de Software (QA) e Desenvolvimento**  
-🔧 **Ferramentas e Tecnologias:** Python, Cypress e Jira
+🔧 **Ferramentas e Tecnologias:** Python, Cypress e Jira  
 📚 **Atualmente aprendendo:** Python, Testes Manuais e Automatizados e Inglês  
 
 ---
