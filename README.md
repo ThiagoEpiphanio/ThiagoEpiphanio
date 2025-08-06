@@ -1,5 +1,5 @@
 # 👋 Olá, sou Thiago Epiphanio!  
-🎓 **Tecnólogo em Gestão da TI (4º semestre)**  
+🎓 **Tecnólogo em Gestão da TI (5º semestre)**  
 💻 **Focado em Programação Back-End**  
 📚 **Atualmente aprendendo: Python, Django e Dados.**  
 
