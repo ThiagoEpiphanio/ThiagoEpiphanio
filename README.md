@@ -1,22 +1,53 @@
-# 👋 Olá, sou Thiago Epiphanio!  
+# ☁️ Olá, sou Thiago Epiphanio!
+
 🎓 **Tecnólogo em Gestão da TI (5º semestre)**  
-💻 **Focado em Programação Back-End**  
-📚 **Atualmente aprendendo: Python, Django e Dados.**  
+💻 **Em transição de carreira para Cloud Solution Architect**  
+🚀 **Focado em Arquitetura AWS, Automação e Segurança em Nuvem**
 
----------
-### 🚀 Sobre mim
-Sou apaixonado por tecnologia e estou em transição para a área de Programação Back-End, buscando construir uma carreira sólida em desenvolvimento de software.
-Tenho um perfil autodidata e gosto de explorar tecnologias que me desafiem a pensar de maneira lógica e criativa.
-Atualmente, estou desenvolvendo projetos pessoais para fortalecer minhas habilidades técnicas e aprofundar meu conhecimento em Python e frameworks modernos.
+---
 
-Valorizo muito o aprendizado contínuo e acredito que a colaboração é essencial para criar soluções de impacto.
+## 🌐 Sobre mim
 
----------
-### 🌱 O que estou estudando?
-- **Desenvolvimento back-end com Python**
-- **Fundamentos e desenvolvimento em Django**
-- **Idioma: Inglês**
+Sou apaixonado por tecnologia e estou em transição de carreira para a área de **Cloud Computing e Arquitetura de Soluções**, com o objetivo de projetar ambientes **seguros, escaláveis e de alta disponibilidade**.  
 
- ---------
- ### 📈 Objetivo Profissional
-- Atuar como desenvolvedor back-end, contribuindo para a criação de aplicações eficientes e escaláveis. Estou em busca de oportunidades que me permitam aplicar minhas habilidades, aprender com outros profissionais e crescer na área de desenvolvimento de software.
+Tenho perfil **autodidata**, gosto de explorar tecnologias que envolvem **infraestrutura como código, automação e boas práticas de segurança em nuvem**, e acredito que a inovação vem da combinação entre **conhecimento técnico e visão colaborativa**.  
+
+Atualmente, estou aprofundando meus estudos em **serviços AWS, arquitetura em nuvem e fundamentos de cibersegurança**, buscando me especializar em soluções que integrem **eficiência, confiabilidade e segurança**.
+
+---
+
+## 📚 O que estou estudando?
+
+- ☁️ **Fundamentos de Cloud Computing (AWS & Azure)**  
+- 🧩 **Infraestrutura como Código (IaC) com Terraform e CloudFormation**  
+- 🔒 **Fundamentos de Cibersegurança e Governança em Cloud**  
+- ⚙️ **Práticas DevOps e automação de ambientes Cloud**  
+- 🌍 **Idioma: Inglês (nível intermediário e em evolução)**  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Cloud Solution Architect**, ajudando empresas a **planejar, migrar e otimizar ambientes em nuvem**, com foco em **segurança, desempenho e custo-benefício**.  
+Busco oportunidades que me permitam **aplicar e expandir meus conhecimentos**, colaborar em equipes técnicas e contribuir para **soluções modernas e sustentáveis**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Como me encontrar
+
+📧 **E-mail:** [thiago84.epiphanio@gmail.com](mailto:thiago84.epiphanio@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/thiagoepiphanio](https://linkedin.com/in/thiagoepiphanio)  
+🌐 **DIO Profile:** [dio.me/users/thiagoepiphanio](https://dio.me/users/thiagoepiphanio)
+
+---
